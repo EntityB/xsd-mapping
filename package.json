@@ -1,0 +1,11 @@
+{
+  "name": "xsd-mapping",
+  "version": "0.0.1",
+  "description": "Convert JSON to XML following XSD rules with custom mapping. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EntityBlack",
+  "license": "ISC"
+}
