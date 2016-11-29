@@ -3,6 +3,7 @@ var rules = require("./rules");
 
 /**
  * 
+ * @param data JSON
  * @param xsd must have format of parsed scheme
  * 
  */
@@ -10,6 +11,11 @@ var map = function (data, xsd) {
 
 };
 
+/**
+ * 
+ * @param xsd 
+ * 
+ */
 var Mapping = function (xsd) {
     this.xsd = xsd;
 };
